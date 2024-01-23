@@ -117,5 +117,6 @@ hands-free system by integrating full voice control with Microsoft Azure Speech 
 
 
 ## 🔗 Links
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/ptsalmon/resume/blob/main/Peter_Salmon_Resume.pdf)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/peter-salmon/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ptsalmon03@gmail.com)
