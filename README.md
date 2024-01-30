@@ -25,7 +25,7 @@ Firebase, Matlab, Visual Basic/VBA, and many more. Check out some of my Projects
 
 
 
-## ✅ Project Highlights
+## 💡 Project Highlights
 
 ### TimeBlock
 
