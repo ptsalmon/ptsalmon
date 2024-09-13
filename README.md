@@ -16,12 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🐊 About Me
-🎓 Hi, I'm Peter, a CS major and math minor at UF on track to graduate May 2025. 
-
-💻 I'm a big fan of C/C++ and Python, but I'm always looking for opportunities to learn new languages and frameworks. So far, I've learned NumPy, Pandas, HTML/CSS, JavaScript, React, Redux, Node.js, Java,
-Firebase, Matlab, Visual Basic/VBA, and many more. Check out some of my Projects below for more details.
-
-🤔 As a math lover, I'm fascinated by the intersection between math and CS, especially in the realms of algorithm/computation theory and AI/ML.
+🎓 Hi, I'm Peter, a CS major and math minor at UF graduating in May 2025.
 
 
 
