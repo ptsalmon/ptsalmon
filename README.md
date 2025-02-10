@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🐊 About Me
 🎓 Hi, I'm Peter, a CS major and math minor at UF graduating in May 2025.
 
 
 
-## 💡 Project Highlights
+## Projects
 
 ### TimeBlock
 
@@ -71,42 +70,6 @@ hands-free system by integrating full voice control with Microsoft Azure Speech 
 • Designed responsive interface using WPF for Visual C++ to help users quickly find successful decks
 
 
-
-## 📚 Coursework
-
-### 🌱 I’m currently learning ...
-
--**Enterprise Security**
-
--**Enterprise Software Engineering**
-
--**Numerical Analysis**
-
--**Programming Language Concepts**
-
-### ✔ I've already learned ...
-
--**Operating Systems**
-
--**Algorithm Design & Computation Theory**
-
--**Competitive Programming**
-
--**Natural User Interaction**
-
--**Computer Organization**
-
--**Accelerated Programming Fundamentals**
-
--**Discrete Structures**
-
--**AI Fundamentals**
-
--**Software Engineering**
-
--**Real Analysis 1 & 2**
-
--**Linear Algebra & Diff. Eq.**
 
 
 
