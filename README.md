@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Peter, a CS major and math minor at UF graduating in May 2025.
-
+CMU 26
+UF 25
 
 
 ## Projects
 
-### TimeBlock
+### TimeBlock (2023)
 
 [Website Link](https://www.time-block.io/) | [Github Link](https://github.com/AidanPine/TimeBlock)
 
@@ -34,7 +34,7 @@ Hi, I'm Peter, a CS major and math minor at UF graduating in May 2025.
 • Utilized Firestore for user and calendar data and Firebase Authentication for secure login and authentication
 
 
-### Voice Mario
+### Voice Mario (2023)
 
 [Github Link](https://github.com/dev-lukian/NUI-Mario)
 
@@ -55,7 +55,7 @@ hands-free system by integrating full voice control with Microsoft Azure Speech 
     'fire' -> Throw a fireball
 
 
-### Clash Royale Deck Finder
+### Clash Royale Deck Finder (2022)
 
 [Github Link](https://github.com/ptsalmon/Clash-Royale-Deck-Finder) | [Video Demo](https://www.youtube.com/watch?v=9v--_feFCC8)
 
