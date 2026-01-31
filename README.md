@@ -13,12 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-CMU 26
-
-UF 25
 
 
 ## Projects
+
+### Real-Time Multimodal Emotional Analysis (2024-2025)
+
+[Blog Link](https://www.ippd.ufl.edu/blogs/ay2425team01/blog-posts/)
+
+![image](https://github.com/user-attachments/assets/0073c5a0-76d4-4f11-a307-ac15752220b8)
+
+• Built a real-time multimodal system for telehealth that fuses face video (1 fps), audio, and transcript text to predict a patient’s emotional state every second
+
+• Outputs live emotion signals plus a timeline/report for clinicians to identify cues and potential emotional triggers during sessions
+
+• Integrates the emotion timeline with the session transcript to generate automated summaries for post-visit review
+
+### Flood Claim Prediction from Wetland Data  (2023)
+
+![image](https://github.com/user-attachments/assets/92e1c973-a640-4fa9-b7d8-1fbe75db1ebe)
+
+• Fit regression models to predict flood insurance claims using zipcode-level wetland data
+
+• Automated GIS workflows using NumPy, Pandas, and Rasterio
 
 ### TimeBlock (2023)
 
@@ -28,7 +45,7 @@ UF 25
 
 • With TimeBlock, users can upload their schedules, create shared calendars with other users, and compare and contrast their schedules with other TimeBlock users, making it easy to schedule meetings and group events.
 
-• Collaborated with 3 other UF students, employing Agile methodologies such as two-week sprints, scrum, and kanban to successfully deliver in a limited timeframe
+• Collaborated with 3 other UF students, employing Agile methodologies such as two-week sprints, scrum, and kanban
 
 • Built frontend with React, Redux, and MaterialUI
 
@@ -69,10 +86,3 @@ hands-free system by integrating full voice control with Microsoft Azure Speech 
 • Designed responsive interface using WPF for Visual C++ to help users quickly find successful decks
 
 
-
-
-
-
-## 🔗 Links
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/peter-salmon/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ptsalmon03@gmail.com)
